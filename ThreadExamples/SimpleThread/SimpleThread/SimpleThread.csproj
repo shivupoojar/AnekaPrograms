@@ -33,6 +33,24 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Aneka">
+      <HintPath>C:\Program Files (x86)\Manjrasoft\Aneka.5.0\Tools\SDK\Common\Aneka.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Data">
+      <HintPath>C:\Program Files (x86)\Manjrasoft\Aneka.5.0\Tools\SDK\Common\Aneka.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Runtime.Provisioning">
+      <HintPath>C:\Program Files (x86)\Manjrasoft\Aneka.5.0\Tools\SDK\Runtime\Aneka.Runtime.Provisioning.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Scheduling">
+      <HintPath>C:\Program Files (x86)\Manjrasoft\Aneka.5.0\Tools\SDK\Runtime\Aneka.Scheduling.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Threading">
+      <HintPath>C:\Program Files (x86)\Manjrasoft\Aneka.5.0\Tools\SDK\Thread Model\Aneka.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Util">
+      <HintPath>C:\Program Files (x86)\Manjrasoft\Aneka.5.0\Tools\SDK\Common\Aneka.Util.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />

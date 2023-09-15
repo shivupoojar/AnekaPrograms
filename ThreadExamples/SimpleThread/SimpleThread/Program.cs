@@ -45,7 +45,7 @@ namespace SimpleThread
                 anekaTh.Join();
                 hw = (HelloWorld)anekaTh.Target;
                 //Print the output in console
-                Console.WriteLine("-|Thread output: {0} |Application Name: {1} |Node Id: {2} |Submission Time: {3} | Completion Time:{4} | Maximum Exec. Time:{5}", hw.result,anekaTh.ApplicationId,anekaTh.NodeId,anekaTh.SubmissionTime,anekaTh.CompletionTime,anekaTh.MaximumExecutionTime);
+                Console.WriteLine("-|Thread output: {0} |Application Name: {1} |Node Id: {2} |Submission Time: {3} | Completion Time:{4} | Maximum Exec. Time:{5} |", hw.result,anekaTh.ApplicationId,anekaTh.NodeId,anekaTh.SubmissionTime,anekaTh.CompletionTime,anekaTh.MaximumExecutionTime);
                // Console.WriteLine("Output of Hello Print" + hw.result + "val: " + hw.i + " " + anekaTh.NodeId + "submisstion time:" + anekaTh.SubmissionTime + "Completion Time" + anekaTh.CompletionTime);
                // System.Diagnostics.Debug.Write("Output of Hello Print" + hw.result + "val: " + hw.i + " " + anekaTh.NodeId + "submisstion time:" + anekaTh.SubmissionTime + "Completion Time" + anekaTh.CompletionTime);
             }

@@ -1,19 +1,23 @@
 # Aneka Cloud Application Development 
 ## Creating Aneka Cloud Computing Cluster
 
+## Creating two-node clusters in Azure Clouds
+
+## Creating Developer Environment 
+
 ## Running Sample Application 
 
 ## Aneka Application Programming Interfaces (API)- Aneka SDK  
 
 ### Aneka Thread API
 
-#### Creating your first thread application
+#### Developing your first thread application
 
 ### Aneka Task API
 
-#### Creating your first task application
+#### Developing your first task application
 
 ### Aneka Map Reduce API
 
-#### Creating your first MapReduce application
+#### Developing your first MapReduce application
 

@@ -1,0 +1,11 @@
+Matrix Multiplication –Error executingthe application
+Date: 12/09/2023 22:31:37
+
+Unhandled exception during execution.
+
+== START DUMP ==
+
+Exception Details:
+- Message: Object reference not set to an instance of an object.
+- Type: System.NullReferenceException
+- Source: Aneka.Scheduling

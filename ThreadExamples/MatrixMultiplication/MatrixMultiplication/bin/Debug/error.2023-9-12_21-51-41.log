@@ -1,0 +1,18 @@
+Matrix Multiplication –Error executingthe application
+Date: 12/09/2023 21:51:41
+
+Unhandled exception during execution.
+
+== START DUMP ==
+
+Exception Details:
+- Message: The type containing the specified delegate should be marked as Serializable
+- Type: System.ArgumentException
+- Source: Aneka.Threading
+- TargetSite: Void .ctor(System.Threading.ThreadStart, Aneka.Entity.AnekaApplication`2[Aneka.Threading.AnekaThread,Aneka.Threading.ThreadManager])
+- StackTrace:    at Aneka.Threading.AnekaThread..ctor(ThreadStart start, AnekaApplication`2 application)
+   at MatrixMultiplication.MatrixProduct.ExecuteThreads() in C:\Users\poojara\source\repos\MatrixMultiplication\MatrixMultiplication\Program.cs:line 145
+   at MatrixMultiplication.MatrixProduct.Main(String[] args) in C:\Users\poojara\source\repos\MatrixMultiplication\MatrixMultiplication\Program.cs:line 88
+ - Data: 0 Elements
+
+== END DUMP ==

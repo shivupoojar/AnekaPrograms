@@ -1,0 +1,32 @@
+Matrix Multiplication –Error executingthe application
+Date: 12/09/2023 23:43:56
+
+Unhandled exception during execution.
+
+== START DUMP ==
+
+Exception Details:
+- Message: Could not load file or assembly 'Aneka.Scheduling, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. The system cannot find the file specified.
+- Type: System.IO.FileNotFoundException
+- Source: mscorlib
+- TargetSite: System.Reflection.RuntimeAssembly _nLoad(System.Reflection.AssemblyName, System.String, System.Security.Policy.Evidence, System.Reflection.RuntimeAssembly, System.Threading.StackCrawlMark ByRef, IntPtr, Boolean, Boolean, Boolean)
+- StackTrace:    at System.Reflection.RuntimeAssembly._nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.nLoad(AssemblyName fileName, String codeBase, Evidence assemblySecurity, RuntimeAssembly locationHint, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoadAssemblyName(AssemblyName assemblyRef, Evidence assemblySecurity, RuntimeAssembly reqAssembly, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean throwOnFileNotFound, Boolean forIntrospection, Boolean suppressSecurityChecks)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, IntPtr pPrivHostBinder, Boolean forIntrospection)
+   at System.Reflection.RuntimeAssembly.InternalLoad(String assemblyString, Evidence assemblySecurity, StackCrawlMark& stackMark, Boolean forIntrospection)
+   at System.Reflection.Assembly.Load(String assemblyString)
+   at System.Runtime.Serialization.FormatterServices.LoadAssemblyFromString(String assemblyName)
+   at System.Reflection.MemberInfoSerializationHolder..ctor(SerializationInfo info, StreamingContext context)
+   at System.Exception.GetExceptionMethodFromString()
+   at System.Exception.GetTargetSiteInternal()
+   at System.Exception.get_TargetSite()
+   at Aneka.IOUtil.WriteException(TextWriter writer, Int32 tab, Exception ex)
+   at Aneka.IOUtil.DumpErrorReport(TextWriter writer, Exception ex, String header)
+   at Aneka.IOUtil.DumpErrorReport(String path, Exception ex, String header)
+   at Aneka.IOUtil.DumpErrorReport(Exception ex, String header)
+   at MatrixMultiplication.MatrixProduct.ExecuteThreads() in C:\Users\poojara\source\repos\MatrixMultiplication\MatrixMultiplication\Program.cs:line 165
+   at MatrixMultiplication.MatrixProduct.Main(String[] args) in C:\Users\poojara\source\repos\MatrixMultiplication\MatrixMultiplication\Program.cs:line 91
+ - Data: 0 Elements
+
+== END DUMP ==

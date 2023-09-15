@@ -1,0 +1,17 @@
+Matrix Multiplication –Error executingthe application
+Date: 12/09/2023 22:45:19
+
+Unhandled exception during execution.
+
+== START DUMP ==
+
+Exception Details:
+- Message: Index was outside the bounds of the array.
+- Type: System.IndexOutOfRangeException
+- Source: MatrixMultiplication
+- TargetSite: Void ExecuteThreads()
+- StackTrace:    at MatrixMultiplication.MatrixProduct.ExecuteThreads() in C:\Users\poojara\source\repos\MatrixMultiplication\MatrixMultiplication\Program.cs:line 132
+   at MatrixMultiplication.MatrixProduct.Main(String[] args) in C:\Users\poojara\source\repos\MatrixMultiplication\MatrixMultiplication\Program.cs:line 90
+ - Data: 0 Elements
+
+== END DUMP ==

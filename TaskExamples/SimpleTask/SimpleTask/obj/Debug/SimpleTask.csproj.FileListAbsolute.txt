@@ -1,0 +1,17 @@
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\SimpleTask.exe.config
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\SimpleTask.exe
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\SimpleTask.pdb
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.Data.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.Execution.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.Runtime.Common.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.Runtime.Provisioning.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.Scheduling.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.Tasks.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.UI.Common.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\bin\Debug\Aneka.Util.dll
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\obj\Debug\SimpleTask.csproj.AssemblyReference.cache
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\obj\Debug\SimpleTask.csproj.CoreCompileInputs.cache
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\obj\Debug\SimpleTask.csproj.CopyComplete
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\obj\Debug\SimpleTask.exe
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\SimpleTask\SimpleTask\obj\Debug\SimpleTask.pdb

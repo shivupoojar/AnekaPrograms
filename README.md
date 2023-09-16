@@ -2,7 +2,7 @@
 ## Creating Aneka Cloud Computing Cluster
 
 ## Creating two-node clusters in Azure Clouds
-
+## Creating Aneka cluster with VMs in Xen Server-based hypervisor and Multi-Core Server 
 ## Creating Developer Environment 
 
 To set up the developer environment, the following are the requirements:

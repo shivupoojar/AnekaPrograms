@@ -1,0 +1,2 @@
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\myMLApp\obj\Debug\myMLApp.csproj.AssemblyReference.cache
+G:\My Drive\ANEKA\AnekaPrograms\TaskExamples\myMLApp\obj\Debug\myMLApp.csproj.CoreCompileInputs.cache

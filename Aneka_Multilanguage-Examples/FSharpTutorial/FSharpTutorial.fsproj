@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="Aneka">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Common\Aneka.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Data">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Common\Aneka.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Execution">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Runtime\Aneka.Execution.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Runtime.Common">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Runtime\Aneka.Runtime.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Runtime.Provisioning">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Runtime\Aneka.Runtime.Provisioning.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Scheduling">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Runtime\Aneka.Scheduling.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Threading">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Thread Model\Aneka.Threading.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.UI.Common">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Common\Aneka.UI.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Aneka.Util">
+      <HintPath>..\..\..\..\Downloads\anekaworkshop\anekaworkshop\SDK\SDK\Common\Aneka.Util.dll</HintPath>
+    </Reference>
+	</ItemGroup>
+
+</Project>

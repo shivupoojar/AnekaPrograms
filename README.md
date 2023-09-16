@@ -26,3 +26,6 @@ To set up the developer environment, the following are the requirements:
 
 #### Developing your first MapReduce application
 
+
+## Aneka support for multi languages C#, F#, C++ (Ref: https://github.com/Cloudslab/Aneka-Multilanguage-Tutorial.git)
+
